@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "GudCity.aternos.me:61299",
+    "port": 61299,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
